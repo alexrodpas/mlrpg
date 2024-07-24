@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mlrpg"
+  site-url: "https://alexrodpas.github.io/mlrpg"
+  description: "Machine Learning Research Playground"
+  repo-branch: main
+  repo-url: "https://github.com/alexrodpas/mlrpg"
