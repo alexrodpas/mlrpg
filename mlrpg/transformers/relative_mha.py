@@ -14,7 +14,7 @@ from torch import nn
 from fastcore.test import *
 
 from labml.logger import inspect
-from mlr_playground.transformers.mha import MultiHeadAttention
+from .mha import MultiHeadAttention
 
 # %% ../../nbs/transformers.relative_mha.ipynb 5
 def shift_right(x: torch.Tensor):
