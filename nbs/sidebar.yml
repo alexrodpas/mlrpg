@@ -2,5 +2,8 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - transformers.mha.ipynb
-      - transformers.relative_mha.ipynb
+      - section: Transformers
+        contents:
+        - transformers.mha.ipynb
+        - transformers.relative_mha.ipynb
+      - section: Experiments
